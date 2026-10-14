@@ -1,3 +1,9 @@
+# INSTALLING GUIDE (NOT FOR PUBLIC)
+1. Create my-react-app
+2. install supabase through cmd
+3. add files from github into apps directory
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
